@@ -17,12 +17,14 @@
     ]
   , "license"         : "MIT"
   , "dependencies"    : {
-        "swig"    : "~0.13.5"
-      , "ssbl"    : "~0.0.0"
-      , "execute" : "~0.1.0"
-      , "after"   : "~0.7.0"
-      , "xtend"   : "~2.0.3"
-      , "mkdirp"  : "~0.3.5"
+        "swig"       : "~0.13.5"
+      , "ssbl"       : "~0.0.0"
+      , "execute"    : "~0.1.0"
+      , "after"      : "~0.7.0"
+      , "xtend"      : "~2.0.3"
+      , "mkdirp"     : "~0.3.5"
+      , "brucedown"  : "~0.0.1"
+      , "map-async"  : "~0.1.1"
     }
   , "devDependencies" : {
         "bustermove" : "*"
