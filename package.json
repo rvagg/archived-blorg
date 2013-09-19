@@ -1,6 +1,6 @@
 {
     "name"            : "blorg"
-  , "version"         : "0.2.0"
+  , "version"         : "0.2.2"
   , "description"     : "Flexible static blog generator"
   , "main"            : "lib/blorg.js"
   , "bin"             : "bin/blorg.js"
@@ -21,7 +21,7 @@
       , "ssbl"       : "~0.0.0"
       , "execute"    : "~0.1.0"
       , "after"      : "~0.7.0"
-      , "xtend"      : "~2.0.3"
+      , "xtend"      : "~2.1.1"
       , "mkdirp"     : "~0.3.5"
       , "brucedown"  : "~0.0.1"
       , "map-async"  : "~0.1.1"
